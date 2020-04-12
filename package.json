@@ -28,6 +28,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://automedon.github.io/MrotForm/",
   "browserslist": {
     "production": [
       ">0.2%",
