@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MrotForm/static/css/main.a9132544.chunk.css",
+    "main.js": "/MrotForm/static/js/main.d4a16d1d.chunk.js",
+    "main.js.map": "/MrotForm/static/js/main.d4a16d1d.chunk.js.map",
+    "runtime-main.js": "/MrotForm/static/js/runtime-main.c4674f94.js",
+    "runtime-main.js.map": "/MrotForm/static/js/runtime-main.c4674f94.js.map",
+    "static/css/2.d788185a.chunk.css": "/MrotForm/static/css/2.d788185a.chunk.css",
+    "static/js/2.8a5be6b5.chunk.js": "/MrotForm/static/js/2.8a5be6b5.chunk.js",
+    "static/js/2.8a5be6b5.chunk.js.map": "/MrotForm/static/js/2.8a5be6b5.chunk.js.map",
+    "index.html": "/MrotForm/index.html",
+    "precache-manifest.da4aab384e18272c5f130d0d45a7e5a6.js": "/MrotForm/precache-manifest.da4aab384e18272c5f130d0d45a7e5a6.js",
+    "service-worker.js": "/MrotForm/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/MrotForm/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.a9132544.chunk.css.map": "/MrotForm/static/css/main.a9132544.chunk.css.map",
+    "static/js/2.8a5be6b5.chunk.js.LICENSE.txt": "/MrotForm/static/js/2.8a5be6b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4674f94.js",
+    "static/css/2.d788185a.chunk.css",
+    "static/js/2.8a5be6b5.chunk.js",
+    "static/css/main.a9132544.chunk.css",
+    "static/js/main.d4a16d1d.chunk.js"
+  ]
+}
